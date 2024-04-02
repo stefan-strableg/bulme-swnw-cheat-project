@@ -1,0 +1,9 @@
+[submodule "bulme-swnw-chatclient"]
+	path = bulme-swnw-chatclient
+	url = https://github.com/stefan-strableg/bulme-swnw-chatclient.git
+[submodule "bulme-swnw-wordprocessor"]
+	path = bulme-swnw-wordprocessor
+	url = https://github.com/stefan-strableg/bulme-swnw-wordprocessor.git
+[submodule "bulme-swnw-producer-consumer"]
+	path = bulme-swnw-producer-consumer
+	url = https://github.com/stefan-strableg/bulme-swnw-producer-consumer.git
